@@ -10,7 +10,7 @@ National Park Visitation and Amenities data – We have found data about nationa
 - Statistics/Analysis - Machine Learning/Neural Networks
 - Presentation – Tableau Story
 
-Group Roles: 
+## Group Roles: 
 - Noor – Machine Learning/Neural Networks
 - Dave - PostgreSQL
 - Robert - Tableau 
