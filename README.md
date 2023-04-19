@@ -15,3 +15,4 @@ National Park Visitation and Amenities data – We have found data about nationa
 - Dave - PostgreSQL
 - Robert - Tableau 
 - Chris – Data Prep/Jupyter Notebook/Python
+- Zachary - Written report
