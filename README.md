@@ -15,3 +15,6 @@ National Park Visitation and Amenities data – We have found data about nationa
 - Dave - PostgreSQL
 - Robert - Tableau 
 - Chris – Data Prep/Jupyter Notebook/Python
+
+### Notes from SQL Server
+ran into an issue. the data didn't matchup. I went into the CSV file to manually change some cells to match the data types. The Merge was successful then.
