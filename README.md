@@ -42,6 +42,7 @@ A limitation of the data was that we were not able to assign visitation to each 
 - Dave - PostgreSQL
 - Robert - Tableau 
 - Chris – Data Prep/Jupyter Notebook/Python
+- Zachary - Readme/Written Analysis
 
 ### Notes from SQL Server
 We ran into an issue in which the data didn't matchup. We went into the CSV file to manually change some cells to match the data types. The merge was successful then.
