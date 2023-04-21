@@ -1,5 +1,5 @@
 # Final Project
-https://public.tableau.com/app/profile/dave.jacobs/viz/NationalParksFinal_ProjectNPS_VBSP-CGEdit4-19-23_16820154840060/NationalParks?publish=yes
+-[Link to Dashboard](https://public.tableau.com/app/profile/dave.jacobs/viz/NationalParksFinal_ProjectNPS_VBSP-CGEdit4-19-23_16820154840060/NationalParks?publish=yes
 
 ### What do we intend to show:
 National Park Visitation and Amenities data – We have found data about national park amenities and visitation numbers for the previous year. We would like to see if there is a correlation between any of the park amenities and the number of visitors annually. Criteria for amenities: state, lat/long, total Sites, tent only, the number of electrical hook ups, showers, dump station present, host, potable water, firewood for sale.
